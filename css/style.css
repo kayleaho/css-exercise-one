@@ -1,9 +1,11 @@
-body {class= font-size: 14px;}
+body {
+  font-size: 14px;
+}
 
 nav {
   background-color: yellow;
   height: 100px;
-  margin-top: -10px;
+  margin-top: -10px auto;
   position: fixed;
   width: 100%;
 }
@@ -27,7 +29,7 @@ h1 {
 .element {
   background-color: green;
   height: 100px;
-  margin: 10px 0;
+  margin: 10px auto;
   width: 100%;
 }
 
